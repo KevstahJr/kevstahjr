@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Kevin/KevstahJr
 
-- 🌱 I’m currently learning how to **write code
+- 🌱 I’m currently learning how to **write code**
 
 - 📫 You can email me at kevstahjr@vexirmc.ga
 
