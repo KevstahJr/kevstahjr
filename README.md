@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning how to **write code**
 
-- 📫 You can email me at kevstahjr@vexirmc.ga
+- 📫 You can email me at **kevstahjr@vexirmc.ga**
 
 ### Follow me at
 <p align="center">
