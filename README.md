@@ -4,7 +4,7 @@
 
 - 📫 You can email me at **kevstahjr@vexirmc.ga**
 
-![stats](https://github-readme-stats.vercel.app/api?username=Ssmidge&show_icons=true&hide_border=true) <br/>
+![stats](https://github-readme-stats.vercel.app/api?username=KevstahJr&show_icons=true&hide_border=true) <br/>
 
 ### Follow me at
 <p align="center">
