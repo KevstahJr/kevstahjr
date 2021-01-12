@@ -1,11 +1,12 @@
 ### Hi 👋 My name is Kevin/KevstahJr
 
-- 🌱 I’m currently learning how to **write code**
+- 🌱 I’m currently learning how to 'write' code *couch* skid
 
 - 📫 You can email me at **kevstahjr@vexirmc.ga**
 
 ### My Stats
-![stats](https://github-readme-stats.vercel.app/api?username=KevstahJr&show_icons=true&hide_border=true) <br/>
+![github stats](https://github-readme-stats.vercel.app/api?username=KevstahJr&show_icons=true&theme=vue-dark)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevstahJr&theme=vue-dark)](https://github.com/KevstahJr)
 
 ### Follow me at
 <p align="center">
