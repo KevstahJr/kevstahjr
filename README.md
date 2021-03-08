@@ -1,4 +1,4 @@
-### Hi 👋 My name is Kevin/KevstahJr
+### Hi 👋 My name is Kev/KevstahJr
 
 - 🌱 I’m currently learning how to 'write' code *couch* skid
 
