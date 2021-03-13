@@ -21,6 +21,6 @@ Hi, a programmer, and run @AtlasOrb @ShieldsDB I have been working on Minecraft 
 </ul>
 
 <p align="center">
-Made with ❤️ by [BGHDDevelopment] (https://github.com/bghddevelopment)
+Made with ❤️ by <a href="https://github.com/kevstahjr">KevstahJr</a>
 
 </p>
