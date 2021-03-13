@@ -1,15 +1,25 @@
-### Hi 👋 My name is Kev/KevstahJr
+### Hi 👋, I'm Kev
+<a href="https://discord.gg/7H7sF62yWu">
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/kevstahjr">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/kevstahjr/">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+</a>
+<br />
+<br />
 
-- 🌱 I’m currently learning how to 'write' code *couch* skid
+Hi, a programmer, and run @AtlasOrb @ShieldsDB I have been working on Minecraft servers for years. Beside's coding, I am getting into flying drones and photography.
 
-- 📫 You can email me at **kevstahjr@vexirmc.ga**
 
-### My Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=KevstahJr&show_icons=true&theme=vue-dark)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevstahJr&theme=vue-dark)](https://github.com/KevstahJr)
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevstahjr&show_icons=true&hide_border=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevstahjr&theme=dark&layout=compact&langs_count=6"/>
+</div>
+</ul>
 
-### Follow me at
 <p align="center">
-<a href="https://twitter.com/kevstahjr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kevstahjr" height="20" width="20" /></a>
-<a href="https://www.instagram.com/kevstahjr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kevstahjr" height="20" width="20" /></a>
+Made with ❤️ by [KevstahJr](https://github.com/kevstahjr)
 </p>
