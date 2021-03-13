@@ -21,6 +21,6 @@ Hi, i am a programmer, and run <a href="https://github.com/AtlasOrb">AtlasOrb</a
 </ul>
 
 <p align="center">
+</ul>
 Made with ❤️ by <a href="https://github.com/kevstahjr">KevstahJr</a>
-
 </p>
