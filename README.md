@@ -19,6 +19,7 @@ Hi, i am a programmer, and run <a href="https://github.com/AtlasOrb">AtlasOrb</a
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevstahjr&theme=dark&layout=compact&langs_count=6"/>
 </div>
 </ul>
+<br />
 
 <p align="center">
 </ul>
