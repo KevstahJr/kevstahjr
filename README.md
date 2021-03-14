@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, i am a programmer, and run <a href="https://github.com/AtlasOrb">AtlasOrb</a> & <a href="https://gihub.com/ShieldsDB">ShieldsDB</a> I have been working on Minecraft servers for years. Beside's coding, I am getting into flying drones and photography.
+Hi, i am a programmer, and run <a href="https://github.com/AtlasOrb">AtlasOrb</a> & <a href="https://github.com/ShieldsDB">ShieldsDB</a> I have been working on Minecraft servers for years. Beside's coding, I am getting into flying drones and photography.
 
 
 <div align="center">
