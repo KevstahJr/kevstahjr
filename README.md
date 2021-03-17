@@ -1,14 +1,11 @@
 ### Hi 👋, I'm Kev
-<a href="https://discord.gg/7H7sF62yWu">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
-</a>
 <a href="https://twitter.com/kevstahjr">
   <img src="https://img.shields.io/badge/-Twitter-blue" >
 </a>
+<img src="https://img.shields.io/badge/KevstahJr%232063-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
 <a href="https://www.instagram.com/kevstahjr/">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+  https://img.shields.io/badge/-Instagram-orange
 </a>
- <img src="https://img.shields.io/badge/KevstahJr%232063-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
 <br />
 <br />
 
