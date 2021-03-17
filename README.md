@@ -4,7 +4,7 @@
 </a>
 <img src="https://img.shields.io/badge/KevstahJr%232063-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
 <a href="https://www.instagram.com/kevstahjr/">
-  https://img.shields.io/badge/-Instagram-orange
+  <img src="https://img.shields.io/badge/-Instagram-orange" >
 </a>
 <br />
 <br />
