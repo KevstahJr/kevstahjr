@@ -2,10 +2,10 @@
 <a href="https://twitter.com/kevstahjr">
   <img src="https://img.shields.io/badge/-Twitter-blue" >
 </a>
-<img src="https://img.shields.io/badge/KevstahJr%232063-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
 <a href="https://www.instagram.com/kevstahjr/">
   <img src="https://img.shields.io/badge/-Instagram-orange" >
 </a>
+<img src="https://img.shields.io/badge/KevstahJr%232063-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
 <br />
 <br />
 
