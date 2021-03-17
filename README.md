@@ -3,7 +3,7 @@
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/kevstahjr">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
+  <img src="https://img.shields.io/badge/-Twitter-blue" >
 </a>
 <a href="https://www.instagram.com/kevstahjr/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
